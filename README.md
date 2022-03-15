@@ -1,2 +1,2 @@
 # NewsFlash
-A blog build in HTML and CSS
+A blog built with HTML and CSS
